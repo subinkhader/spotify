@@ -1,0 +1,311 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Header start */
+.header {
+
+    background-color: black;
+    width: 100%;
+    height: 84px;
+
+}
+
+.logo {
+    width: 50%;
+    float: left;
+}
+
+.icon {
+    height: 41px;
+    width: 133px;
+    padding-left: 141.4px;
+    padding-top: 20px;
+    cursor: pointer;
+
+}
+
+
+.button {
+    width: 50%;
+    float: left;
+
+}
+
+.premium {
+    color: white;
+    font-weight: 650;
+    font-family: Helvetica, Arial, sans-serif;
+    padding-top: 32px;
+    padding-left: 29px;
+}
+
+.text {
+    cursor: pointer;
+    padding-top: 28px;
+    padding-left: 29px;
+
+}
+
+.text:hover {
+    color: #1ed760;
+
+}
+
+/* body1 start */
+
+.wrapper {
+    display: flex;
+    background-color: #993399;
+
+
+}
+
+.left {
+    width: 60%;
+    height: 633px;
+}
+
+.smallheading {
+    color: white;
+    text-align: left;
+    font-size: 15px;
+    padding-left: 149px;
+    padding-top: 84px;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+
+.text1 {
+
+    font-size: 365%;
+    padding-left: 150px;
+    padding-top: 51px;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    font-weight: bold;
+
+}
+
+.paragraph {
+    color: white;
+    padding-left: 140px;
+    padding-top: 26px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 23px;
+
+}
+
+
+.a {
+    text-decoration: none;
+    margin-top: 53px;
+}
+
+.buttoninner {
+    color: white;
+    padding: 15px 23px;
+    border-radius: 46px;
+
+    background-color: black;
+    font-size: large;
+    font-family: Helvetica, Arial, sans-serif;
+    ;
+    margin-left: 140px;
+
+}
+
+.footer1 {
+    padding-top: 69px;
+    font-size: medium;
+    color: white;
+    padding-left: 149px;
+    font-family: Helvetica, Arial, sans-serif;
+    ;
+    font-weight: lighter;
+    margin-top: 84px;
+}
+
+.right {
+    width: 40%;
+    height: 633px;
+
+}
+
+.img {
+    height: 400px;
+    width: 400px;
+    padding-left: 28px;
+    padding-top: 117px;
+}
+
+/* start body2 */
+.wrapper2 {
+    display: flex;
+    height: 589px;
+    background-color: rgb(41, 65, 171);
+}
+
+.img2 {
+    width: 100%;
+}
+
+.text2 {
+    margin-left: -1274px;
+}
+
+.smallheading2 {
+
+    text-align: left;
+    padding-top: 66px;
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #51c951;
+
+}
+
+.heading2 {
+    font-size: 365%;
+    padding-top: 47px;
+    color: #4cbe4c;
+    font-family: Helvetica, Arial, sans-serif;
+    ;
+    font-weight: bolder;
+
+}
+
+.paragraph2 {
+    color: #51c951;
+    padding-left: 2px;
+    padding-top: 50px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 27px;
+
+
+}
+
+.button2 {
+    width: 50%;
+    float: left;
+}
+
+.a2 {
+    text-decoration: none;
+    position: relative;
+
+
+}
+
+.buttoninner2 {
+    color: rgb(41, 65, 171);
+    padding: 13px 23px;
+    border-radius: 46px;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    background-color: #2DE26D;
+    font-size: initial;
+    font-family: Helvetica, Arial, sans-serif;
+    ;
+
+
+}
+
+.button2:hover {
+    transform: scale(1.04);
+}
+
+/* start footer */
+
+.footer {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    height: 400px;
+}
+
+.company,
+.community,
+.usefullinks,
+.icons {
+    color: white;
+    height: 219px;
+    width: 294px;
+    padding-top: 75px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+    cursor: pointer;
+
+}
+
+.icon1 {
+    height: 41px;
+    width: 133px;
+    padding-left: 141.4px;
+    padding-top: 83px;
+    cursor: pointer;
+
+}
+
+.icons {
+    flex-direction: row;
+    padding-top: 1px;
+    font-size: 32px;
+}
+
+
+.company :hover {
+    color: #1ed760;
+}
+
+.community :hover {
+    color: #1ed760;
+}
+
+.usefullinks :hover {
+    color: #1ed760;
+}
+
+.icons :hover {
+    color: #1ed760;
+}
+
+li {
+    color: #919496;
+}
+.in{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+   
+}
+.global{
+    padding-left: 1314px;
+    color: white;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: smaller;
+}
+.container5{
+    background-color: black
+}
+.spotifyab{
+   color:white ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    font-size: smaller;
+    
+}
+
+.lice{
+    padding-left: 885px;
+    font-size: smaller;
+    padding-right: 47px;
+}
